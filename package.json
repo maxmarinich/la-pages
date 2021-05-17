@@ -1,0 +1,7 @@
+{
+  "name": "la-actions",
+  "version": "1.0.0",
+  "scripts": {
+    "build:static": "cp -r README.md static/"
+  }
+}
